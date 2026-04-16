@@ -94,11 +94,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
----
 
 ## 🔥 What I'm Working On
 
@@ -111,7 +106,6 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [vsvihaan.exe@gmail.com](mailto:vsvihaan.exe@gmail.com)
-* 💼 LinkedIn: (Add your link here)
 
 ---
 
