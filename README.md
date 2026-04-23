@@ -1,4 +1,4 @@
-# Hi 👋, I'm VineetSingh
+# Hi 👋, I'm Vineet Singh
 
 💻 Backend Developer | Java | Spring Boot | Building scalable backend systems
 🎯 Goal: ₹10LPA+ Backend Role
